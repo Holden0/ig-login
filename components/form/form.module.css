@@ -1,0 +1,50 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 3vh 2vw;
+    border: 1px solid #DBDBDB;
+}
+
+.userNameInput {
+    width: 250px;
+    padding: .6rem;
+    border-radius: 8px;
+    border: 1px solid #DBDBDB;
+    margin: 3px;
+}
+.passwordInput {
+    width: 250px;
+    padding: .6rem;
+    border-radius: 8px;
+    border: 1px solid #DBDBDB;
+    margin: 3px;
+}
+
+.loginButton {
+    width: 250px;
+    padding: .4rem;
+    font-weight: 700;
+    background-color: #0095f6;
+    border: none;
+    border-radius: 8px;
+    margin: 8px 0px;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+  }
+  
