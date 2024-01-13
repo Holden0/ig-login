@@ -28,3 +28,18 @@
     color: var(--text-normal-grey);
 
 }
+
+@media (min-width: 701px) and (max-width: 1120px) {
+    .footer {
+      display: none;
+
+    }
+ 
+  }
+
+    
+  @media (max-width: 700px) {
+    .footer {
+      display: none;
+        }
+      }        
